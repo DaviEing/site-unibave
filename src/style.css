@@ -1,0 +1,14 @@
+body
+.menu-secundario {
+    /*cor do texto */
+    color:rgba(0, 0, 0, .5);
+    /* Sublinha */
+    text-decoration: none;
+    /*caixa alta */
+    text-transform: uppercase;
+    /* tamanho da fonte */
+    font-size: 12px;
+    /*tipo de fonte */
+    font-family: Arial, Helvetica, sans-serif;
+
+}
